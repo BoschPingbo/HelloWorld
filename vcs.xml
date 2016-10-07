@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/BoschPingbo/ScrumMaster.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BoschPingbo/DbcConverter_Test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Python" />
