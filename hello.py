@@ -5,6 +5,7 @@ from time import clock"""
 import random
 import math
 import time
+import random
 
 DARTS = 1200
 hits = 0
